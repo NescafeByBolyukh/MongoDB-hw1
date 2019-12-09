@@ -1,0 +1,22 @@
+{
+  "name": "mongo-homework-part1",
+  "version": "1.0.0",
+  "description": "### Installation 1. Clone repo 2. Open project directory 3. run ```npm install``` command 3. run ```npm start``` command",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vdanyliv/mongo-homework-part-1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vdanyliv/mongo-homework-part-1/issues"
+  },
+  "homepage": "https://github.com/vdanyliv/mongo-homework-part-1#readme",
+  "dependencies": {
+    "mongodb": "^3.3.5"
+  }
+}
